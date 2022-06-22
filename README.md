@@ -1,8 +1,5 @@
 # jwabli-vue
 
-# DEMO
-<a href="https://jwalbli.netlify.app/">DEMO WEB</a>
-
 ## Project setup
 ```
 yarn install
