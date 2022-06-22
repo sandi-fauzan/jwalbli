@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "body": "Nice",
+      "id": 1
+    },
+    {
+      "body": "bagus",
+      "id": 12
+    },
+    {
+      "body": "Mantap",
+      "id": 13
+    },
+    {
+      "body": "Wow",
+      "id": 14
+    },
+    {
+      "body": "This is Amazed us",
+      "id": 15
+    },
+    {
+      "body": "Bagus",
+      "id": 16
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
